@@ -23,7 +23,7 @@ The class received data related to Equipment, Equipment Status History, and Work
 ### 📂 **Datasets**
 - Both raw data and cleaned data for analysis.
 
-## 📊 **Insights and Conclusions**
+### 📊 **Insights and Conclusions**
 - Top-down summary with conclusions
 
 ## Project Structure
