@@ -41,7 +41,7 @@ This repository is organized as follows:
   - `2_PCA_analysis_part_1.ipynb`: Notebook with PCA Analysis.
   - `2_PCA_analysis_part_2.ipynb`: Notebook with PCA Analysis.
   - `3_deep_learning.ipynb`: Notebook with Deep Learning.
-- `docs/`: Documentation and summary presentation..
+- `docs/`: Documentation and summary presentation.
 - `requirements.txt`: Dependencies required for the project.
 - `README.md`: The main project documentation (this file).
 
