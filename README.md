@@ -1,6 +1,6 @@
 # Chevron Corporation - MRO analysis with Data Science
 
-This project was one of my first interactions with Data Science in 2019. I enrolled in an extracurricular course to quickly grasp the basics of the field. As part of the course, I completed a hands-on capstone project with Chevron Corporation, using data from the MRO department to identify opportunities for reducing operating expenses.
+This project was one of my first interactions to Data Science in October 2019. I enrolled in an extracurricular course to quickly grasp the basics of the field. As part of the course, I completed a hands-on capstone project with Chevron Corporation, using data from the MRO department to identify opportunities for reducing operating expenses. **Please note that I have kept the analysis and code almost the same as done in 2019, and does not reflect the current approach that I would take.**
 
 ## Table of Contents
 1. [About the Project](#about-the-project)
